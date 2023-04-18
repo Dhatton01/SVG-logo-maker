@@ -1,4 +1,5 @@
-# SVG-logo-maker
+# svg-logo-maker
+![License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## User Story
 As a freelance web developer, I want to generate a simple logo for my projects, so that I dont have to pay a graphic designer. (You really should hire a graphic designer if you want a professional designed logo)
